@@ -1,2 +1,3 @@
 ## Welcome to Gypsy
-Travel Make easy https://hmwoliul.github.io/gypsy/project
+Travel Make easy.
+Have a look https://hmwoliul.github.io/gypsy/project
